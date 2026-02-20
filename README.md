@@ -7,10 +7,10 @@ ensures users have the rights to study, share, modify, and run software, while r
 or redistributed versions remain open-source under the same license.
 
 ## maven usage through the command line
--Build the project: `mvn compile`
--Run tests: `mvn test`
--Create JAR: `mvn package`
--Clean build directory: `mvn clean`
+### Build the project: `mvn compile`
+### Run tests: `mvn test`
+### Create JAR: `mvn package`
+### Clean build directory: `mvn clean`
 
 To compile and package the project into a JAR file, this runs the `clean`, `compile`, `test`, and `package` lifecycle phases.
 
