@@ -19,5 +19,7 @@ This project supports the education of the development of chatGPT bots used for 
 industry-standard pull-request and review process highlighting changes committed under a team review setting.
 
 
-## closed pull requests
-You can view the closed pull requests at (https://github.com/intivatechnologies/systems-delivery-team-bots/pulls?q=is%3Apr+is%3Aclosed)
+## pull request philosophy
+We generally don't leave pull requests open and handle the discussion / decision processing capabilities of pull requests
+internally. Check out our <a href="https://github.com/intivatechnologies/systems-delivery-team-bots/pulls?q=is%3Apr+is%3Aclosed">closed
+pull requests</a>.
