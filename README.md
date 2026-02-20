@@ -13,7 +13,7 @@ industry-standard pull-request and review process highlighting changes committed
 # pull request philosophy
 We generally don't leave pull requests open and handle the discussion / decision processing capabilities of pull requests
 internally. Check out our <a href="https://github.com/intivatechnologies/systems-delivery-team-bots/pulls?q=is%3Apr+is%3Aclosed">closed
-pull requests</a> (press ctrl/cmd + click to open in a new tab).
+pull requests</a> [press ctrl/cmd + click to open in a new tab].
 
 ## maven usage through the command line
 * Build the project: `mvn compile`
