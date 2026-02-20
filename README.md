@@ -17,3 +17,7 @@ To compile and package the project into a JAR file, this runs the `clean`, `comp
 ## pull request process
 This project supports the education of the development of chatGPT bots used for systems development. Therefore, it uses an
 industry-standard pull-request and review process highlighting changes committed under a team review setting.
+
+
+## closed pull requests
+You can view the closed pull requests at (https://github.com/intivatechnologies/systems-delivery-team-bots/pulls?q=is%3Apr+is%3Aclosed)
