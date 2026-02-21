@@ -17,7 +17,7 @@ It is *NOT* for:
 <ul>
   <li>Software engineering / MCP</li>
   <li>Generating images through GenAI</li
-</ul>
+</ul><br >
 
 # What problem does this project exist to solve?
 Sometimes, a developer doesn't only want to do their job. They want to solve a problem for someone else. If the developer is also a designer, they may want to use their skill as a developer to build something that will help them design an artifact of some kind. This type of work usually requires putting in an extra milestone, and an extra milestone usually involves the pressure of a deadline.
