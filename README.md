@@ -16,20 +16,14 @@ This project is for:
 It is *NOT* for:
 <ul>
   <li>Software engineering / MCP</li>
-  <li>Images through GenAI</li
+  <li>Generating images through GenAI</li
 </ul>
 
 # What problem does this project exist to solve?
-Sometimes, a developer doesn't only want to do their job. They want to solve a problem for someone else. If the developer is
-also a designer, they may want to use their skill as a developer to build something that will help them design an artifact of
-some kind.
-
-This project is for designers who want to produce great work under a time crunch. Usually, a designer would be much better
-off with a team to complete a detailled artifact. Even better if they have good software to detail it for them. But how can
-they know what kind of software they'll need before they hear the requirements of the artifact?
+Sometimes, a developer doesn't only want to do their job. They want to solve a problem for someone else. If the developer is also a designer, they may want to use their skill as a developer to build something that will help them design an artifact of some kind. This type of work usually requires putting in an extra milestone, and an extra milestone usually involves the pressure of a deadline.
 
 # What solution does this project hope to achieve?
-Bringing back the waterfall model, because it's more **fun** than agile.
+Reactivating the waterfall model, simply because it’s more fun than agile.
 
 ## pull request process
 This project supports the education of the development of chatGPT bots used for systems development. Therefore, it uses an
