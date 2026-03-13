@@ -4,10 +4,7 @@
 AI systems for delivering my systems to get more done for a user who has assigned me a deadline
 
 # LICENSE.md
-The GNU General Public License version 3 (GPLv3) is a widely used, strong copyleft open-source license released in 2007
-by the Free Software Foundation. It ensures that users have the right to study, share, modify, and run software. It
-ensures users have the rights to study, share, modify, and run software, while requiring that any modified, derivative,
-or redistributed versions remain open-source under the same license.
+The GNU General Public License version 3 (GPLv3) is a widely used, strong copyleft open-source license released in 2007 by the Free Software Foundation. It ensures users have the rights to study, share, modify, and run software, while requiring that any modified, derivative, or redistributed versions remain open-source under the same license.
 
 # What/Who does this project exist to serve?
 This project is for:
